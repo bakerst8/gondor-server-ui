@@ -1,0 +1,50 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 4,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/yaudD5j.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 8,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "<TextStyle.Violet>Welcome to Gondor!</>",
+                    "text1": "Casual PVE server with slightly boosted rates, no discord yet, Gandalf took it on an adventure.\n\nSee Info tab for server rates.\n\n<TextStyle.Violet>RULES:</>\n<RichColor Color=\"0.5,0.9,1,1\">Don't be a jerk.</> No harassment, bullying, griefing, witch hunts, offensive survivor/tribe/discord names, etc. If you have to ask it's probably a bad idea. Be respectful of all players, mods and admins. If you have an issue with another player, please bring it to an admin instead of handling it yourself. No stealing, kiting, or otherwise crappy non-PVE behavior.\n\n<RichColor Color=\"0.5,0.9,1,1\">Don't be greedy.</> Clean up after yourself around the map INCLUDING TRAPS. Don't build directly next to other players unless you have direct permission from them. Do NOT block access to any areas with valuable resources/beaver dams/artifacts/explorer notes/anything related to progression. And do not cultivate an excessive amount of dinos.",
+                    "imageurl": "https://i.imgur.com/1IV6HED.png"
+                }
+            },
+            {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "<TextStyle.Violet>Info</>",
+          "title1": "Server Info and Rates",
+          "text1": "<TextStyle.Violet>Daily Restart</> is at 3AM ET.\n<TextStyle.Violet>Wild dino wipes</> are at 6AM, 12PM, 6PM, and 12AM ET.\n\n<TextStyle.Violet>Player Rates</>\nPlayerCharacterWaterDrainMultiplier=0.5\nPlayerCharacterFoodDrainMultiplier=0.5\nPlayerCharacterStaminaDrainMultiplier=0.8\nPlayerDamageMultiplier=1\nPlayerResistanceMultiplier=0.9\nPlayerCharacterHealthRecoveryMultiplier=1.1\nPerLevelStatsMultiplier_Player[7]=3\nPerLevelStatsMultiplier_Player[10]=2\nPerLevelStatsMultiplier_Player[11]=1.5\nbDisableFriendlyFire=true\n\n<TextStyle.Violet>Dino Rates</>\nTamingSpeedMultiplier=17\nDinoCharacterFoodDrainMultiplier=1.5\nBabyImprintAmountMultiplier=15\nMatingSpeedMultiplier=2\nbAllowSpeedLeveling=true\nbAllowFlyerSpeedLeveling=true\nLayEggIntervalMultiplier=1.5\nPoopIntervalMultiplier=1.2\nMatingIntervalMultiplier=0.01\nEggHatchSpeedMultiplier=50\nBabyMatureSpeedMultiplier=30\nBabyImprintingStatScaleMultiplier=1\nBabyCuddleIntervalMultiplier=.01\nBabyCuddleGracePeriodMultiplier=1\nBabyCuddleLoseImprintQualitySpeedMultiplier=1\n\n<TextStyle.Violet>XP and Other Rates</>\nKillXPMultiplier=1.2\nHarvestXPMultiplier=1.1\nCraftXPMultiplier=1.1\nGenericXPMultiplier=1\nSpecialXPMultiplier=1.2\nBossKillXPMultiplier=6\nAlphaKillXPMultiplier=1.4\nWildKillXPMultiplier=1.35\nCaveKillXPMultiplier=1.4\nTamedKillXPMultiplier=0\nUnclaimedKillXPMultiplier=1\nSupplyCrateLootQualityMultiplier=3\nFishingLootQualityMultiplier=3\nDayCycleSpeedScale=0.8\nNightTimeSpeedScale=1.1\nForceAllStructureLocking=true\nResourcesRespawnPeriodMultiplier=0.3\nHarvestHealthMultiplier=2\nHarvestAmountMultiplier=2\nAutoDestroyOldStructuresMultiplier=2\nGlobalSpoilingTimeMultiplier=1\nGlobalItemDecompositionTimeMultiplier=0.5\nGlobalCorpseDecompositionTimeMultiplier=1\nResourceNoReplenishRadiusPlayers=0.4\nResourceNoReplenishRadiusStructures=0.4\nCropGrowthSpeedMultiplier=3\nCropDecaySpeedMultiplier=3\nFuelConsumptionIntervalMultiplier=2.5",
+          "imageurl": "https://i.imgur.com/1IV6HED.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord COMING SOON",
+                    "url": ""
+                }
+            },
+            {
+                "link2": {
+                    "text": "Website COMING SOON",
+                    "url": ""
+                }
+            }
+        ]
+    }
+}
