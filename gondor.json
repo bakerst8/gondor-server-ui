@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "<TextStyle.Violet>Welcome to Fellowship of the ARK!</>",
-                    "text1": "Casual PVE server with slightly boosted rates, no discord yet, Gandalf took it on an adventure.\n\nSee Info tab for server rates.\n\n<TextStyle.Violet>RULES:</>\n<RichColor Color=\"0.5,0.9,1,1\">Don't be a jerk.</> No harassment, bullying, griefing, witch hunts, offensive survivor/tribe/discord names, etc. If you have to ask it's probably a bad idea. Be respectful of all players, mods and admins. If you have an issue with another player, please bring it to an admin instead of handling it yourself. No stealing, kiting, or otherwise crappy non-PVE behavior.\n\n<RichColor Color=\"0.5,0.9,1,1\">Don't be greedy.</> Clean up after yourself around the map INCLUDING TRAPS. Don't build directly next to other players unless you have direct permission from them. Do NOT block access to any areas with valuable resources/beaver dams/artifacts/explorer notes/anything related to progression. And do not cultivate an excessive amount of dinos.",
+                    "text1": "Casual PVE server with slightly boosted rates.\n\nSee Info tab for server rates.\n\n<TextStyle.Violet>RULES:</>\n<RichColor Color=\"0.5,0.9,1,1\">Don't be a jerk.</> No harassment, bullying, griefing, witch hunts, offensive survivor/tribe/discord names, etc. If you have to ask it's probably a bad idea. Be respectful of all players, mods and admins. If you have an issue with another player, please bring it to an admin instead of handling it yourself. No stealing, kiting, or otherwise crappy non-PVE behavior.\n\n<RichColor Color=\"0.5,0.9,1,1\">Don't be greedy.</> Clean up after yourself around the map INCLUDING TRAPS. Don't build directly next to other players unless you have direct permission from them. Do NOT block access to any areas with valuable resources/beaver dams/artifacts/explorer notes/anything related to progression. And do not cultivate an excessive amount of dinos.",
                     "imageurl": "https://i.imgur.com/1IV6HED.png"
                 }
             },
@@ -35,8 +35,8 @@
         "links": [
             {
                 "link1": {
-                    "text": "Discord COMING SOON",
-                    "url": ""
+                    "text": "Join our Discord!",
+                    "url": "https://discord.gg/ArpPrABRCY"
                 }
             },
             {
